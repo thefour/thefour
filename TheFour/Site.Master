@@ -9,7 +9,10 @@
         <%: Scripts.Render("~/bundles/modernizr") %>
     </asp:PlaceHolder>
     <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <link href='/Content/tabulous.css' rel='stylesheet' type='text/css'>
     <link href="/Images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <script type="text/javascript" src="/Scripts/tabulous.js"></script>
+    <script type="text/javascript" src="/Scripts/js.js"></script>
     <meta name="viewport" content="width=device-width" />
     <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
 </head>
@@ -30,7 +33,7 @@
             <div class="content-wrapper">
                 <div class="float-left">
                     <a runat="server" href="/">
-                        <img src="/Images/logo.png" alt="The Four" /></a>                    
+                        <img src="Images/logo.png" alt="The Four" /></a>
                 </div>
                 <div class="float-right">
                     <nav>
@@ -44,7 +47,6 @@
             </div>
         </header>
         <div id="body">
-            <asp:ContentPlaceHolder runat="server" ID="FeaturedContent" />
             <section class="content-wrapper main-content clear-fix">
                 <asp:ContentPlaceHolder runat="server" ID="MainContent" />
             </section>

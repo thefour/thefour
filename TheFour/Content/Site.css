@@ -184,7 +184,7 @@ ul#menu {
     ul#menu li {
         display: inline;
         list-style: none;
-        padding-left: 15px;
+        padding-left: 10px;
     }
 
         ul#menu li a {
@@ -198,7 +198,42 @@ ul#menu {
                 text-decoration: none;
             }
 
+ul#bottom-menu {
+    font-size: 1.3em;
+    font-weight: 600;
+    margin: -25px 0 5px;
+    padding: 0;
+    text-align: right;
+}
 
+    ul#bottom-menu li {
+        display: inline;
+        list-style: none;
+        padding-left: 10px;
+    }
+
+        ul#bottom-menu li .fire {
+            color: #e23934;
+        }
+
+        ul#bottom-menu li .flood {
+            color: #55b2d1;
+        }
+
+        ul#bottom-menu li .rain {
+            color: #8eab3d;
+        }
+
+        ul#bottom-menu li a {
+            background: none;
+            color: #666;
+            text-decoration: none;
+        }
+
+            ul#bottom-menu li a:hover {
+                color: #333;
+                text-decoration: none;
+            }
 /* page elements
 ----------------------------------------------------------*/
 /* featured */
@@ -305,7 +340,7 @@ article {
 
 aside {
     float: right;
-    width: 25%;
+    width: 50%;
 }
 
     aside ul {
