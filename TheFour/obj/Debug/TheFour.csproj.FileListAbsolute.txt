@@ -31,3 +31,36 @@ C:\Users\avi\Desktop\Monash seekers\TheFour\TheFour\bin\Microsoft.AspNet.Friendl
 C:\Users\avi\Desktop\Monash seekers\TheFour\TheFour\obj\Debug\TheFour.csprojResolveAssemblyReference.cache
 C:\Users\avi\Desktop\Monash seekers\TheFour\TheFour\obj\Debug\TheFour.dll
 C:\Users\avi\Desktop\Monash seekers\TheFour\TheFour\obj\Debug\TheFour.pdb
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\TheFour.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\TheFour.pdb
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\Antlr3.Runtime.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\DotNetOpenAuth.Core.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\EntityFramework.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\System.Web.Optimization.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\System.Web.Providers.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\WebGrease.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\EntityFramework.xml
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\DotNetOpenAuth.Core.xml
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\Microsoft.AspNet.Membership.OpenAuth.xml
+C:\Users\avi\Documents\GitHub\thefour\TheFour\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\avi\Documents\GitHub\thefour\TheFour\obj\Debug\TheFour.csprojResolveAssemblyReference.cache
+C:\Users\avi\Documents\GitHub\thefour\TheFour\obj\Debug\TheFour.dll
+C:\Users\avi\Documents\GitHub\thefour\TheFour\obj\Debug\TheFour.pdb

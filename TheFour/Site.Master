@@ -31,7 +31,7 @@
                 <div class="float-left">
                     <p class="site-title">
                         <a runat="server" href="/">
-                            <img src="/Images/logo.png" alt="The Four" /></a>
+                            <img src="/Images/logo.jpg" alt="The Four" /></a>
                     </p>
                 </div>
                 <div class="float-right">
