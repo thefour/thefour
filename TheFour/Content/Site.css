@@ -174,7 +174,7 @@ footer {
 /* menu
 ----------------------------------------------------------*/
 ul#menu {
-    font-size: 1.3em;
+    font-size: 1.2em;
     font-weight: 600;
     margin: 0 0 5px;
     padding: 0;
@@ -189,7 +189,7 @@ ul#menu {
 
         ul#menu li a {
             background: none;
-            color: #999;
+            color: #777;
             text-decoration: none;
         }
 
@@ -220,7 +220,7 @@ ul#bottom-menu {
             color: #55b2d1;
         }
 
-        ul#bottom-menu li .rain {
+        ul#bottom-menu li .storm {
             color: #8eab3d;
         }
 
@@ -486,7 +486,36 @@ tr.pager td {
     padding: 0 0.25em 0 0;
 }
 
+.slogan {
+    color: #333; 
+    font-size: 1.2em; 
+    font-weight: 600; 
+    display: inline-block; 
+    vertical-align: top; 
+    padding:15px 0 0 20px;
+}
 
+.navigation-fire {
+    float: left;
+    color: #e23934;
+    padding-top: 5px;
+}
+
+.navigation-flood {
+    float: left;
+    color: #55b2d1;
+    padding-top: 5px;
+}
+
+.navigation-storm {
+    float: left;
+    color: #8eab3d;
+    padding-top: 5px;
+}
+
+.desc {
+    font-size: 1.2em;
+}
 /********************
 *   Mobile Styles   *
 ********************/

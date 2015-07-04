@@ -188,6 +188,8 @@
     <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
+    <Content Include="Storm.aspx" />
+    <Content Include="Flood.aspx" />
     <Content Include="Fire.aspx" />
     <Content Include="Images\accent.png" />
     <Content Include="Images\bullet.png" />
@@ -307,6 +309,20 @@
     </Compile>
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Storm.aspx.cs">
+      <DependentUpon>Storm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Storm.aspx.designer.cs">
+      <DependentUpon>Storm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Flood.aspx.cs">
+      <DependentUpon>Flood.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Flood.aspx.designer.cs">
+      <DependentUpon>Flood.aspx</DependentUpon>
     </Compile>
     <Compile Include="Fire.aspx.cs">
       <DependentUpon>Fire.aspx</DependentUpon>

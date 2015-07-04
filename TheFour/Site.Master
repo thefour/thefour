@@ -32,8 +32,8 @@
         <header>
             <div class="content-wrapper">
                 <div class="float-left">
-                    <a runat="server" href="/">
-                        <img src="Images/logo.png" alt="The Four" /></a>
+                    <a href="/"><img src="Images/logo.png" /></a>
+                        <p class="slogan">DISASTERS WARNING SERVICE FOR AUSTRALIAN TRANSPORTATION</p>
                 </div>
                 <div class="float-right">
                     <nav>

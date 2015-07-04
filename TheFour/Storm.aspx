@@ -1,9 +1,9 @@
-﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Fire.aspx.cs" Inherits="TheFour._Fire" %>
+﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Storm.aspx.cs" Inherits="TheFour._Storm" %>
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <ul id="bottom-menu">
-        <a href="/Fire.aspx">
-            <div class="navigation-fire">Bushfire in Australia from 2000 to 2012</div>
+        <a href="/Storm.aspx">
+            <div class="navigation-storm">Storm in Australia from 2000 to 2012</div>
         </a>
         <li><a class="fire" href="/Fire.aspx">
             <img alt="Bushfire" width="40px" height="40px" src="/Images/Fire.png" /></a></li>
