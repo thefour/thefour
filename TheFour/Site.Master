@@ -4,12 +4,12 @@
 <html lang="en">
 <head runat="server">
     <meta charset="utf-8" />
-    <title>DWSAT - Disaster Warning Service for Australian Transportation</title>
+    <title>DWSAT - Disasters Warning Service for Australian Transportation</title>
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
     </asp:PlaceHolder>
     <webopt:BundleReference runat="server" Path="~/Content/css" />
-    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/Images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <meta name="viewport" content="width=device-width" />
     <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
 </head>
@@ -30,7 +30,7 @@
             <div class="content-wrapper">
                 <div class="float-left">
                     <a runat="server" href="/">
-                        <img src="/Images/logo.jpg" alt="The Four" /></a>                    
+                        <img src="/Images/logo.png" alt="The Four" /></a>                    
                 </div>
                 <div class="float-right">
                     <nav>
