@@ -29,10 +29,8 @@
         <header>
             <div class="content-wrapper">
                 <div class="float-left">
-                    <p class="site-title">
-                        <a runat="server" href="/">
-                            <img src="/Images/logo.jpg" alt="The Four" /></a>
-                    </p>
+                    <a runat="server" href="/">
+                        <img src="/Images/logo.jpg" alt="The Four" /></a>                    
                 </div>
                 <div class="float-right">
                     <nav>
@@ -54,7 +52,7 @@
         <footer>
             <div class="content-wrapper">
                 <div class="float-left">
-                    <p>&copy; The Four at GovHack 2015</p>
+                    <p>&copy; The Four @ GovHack 2015</p>
                 </div>
             </div>
         </footer>

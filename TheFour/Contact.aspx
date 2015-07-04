@@ -1,15 +1,5 @@
 ﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="TheFour.Contact" %>
 
-<asp:Content runat="server" ID="FeaturedContent" ContentPlaceHolderID="FeaturedContent">
-    <section class="featured">
-        <div class="content-wrapper">
-            <hgroup class="title">
-                <h1>DWSAT</h1>
-                <h2>Disaster Warning Service for Australian Transportation.</h2>
-            </hgroup>
-        </div>
-    </section>
-</asp:Content>
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
         <h1>The Four</h1>
@@ -36,12 +26,12 @@
         </header>
         <p>
             <span class="label">General Enquiries:</span>
-            <span><a href="mailto:longtt@monash.edu">longtt@monash.edu</a></span>
+            <span><a href="mailto:long.truong@monash.edu">long.truong@monash.edu</a></span>
         </p>
         <p>
             <span class="label">Business Support:</span>
-            <span><a href="mailto:hungquat@monash.edu">hungquat@monash.edu</a></span>
-            <span><a href="mailto:handphan@monash.edu">handphan@monash.edu</a></span>
+            <span><a href="mailto:hung.tran@monash.edu">hung.tran@monash.edu</a></span>
+            <span><a href="mailto:han.phan@monash.edu">han.phan@monash.edu</a></span>
         </p>
         <p>
             <span class="label">Technical Support:</span>
