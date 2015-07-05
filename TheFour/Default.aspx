@@ -14,6 +14,9 @@
     </ul>
     <iframe width="960" height="540" src='https://quanthdhcn.cartodb.com/viz/ac5b0782-21f2-11e5-8c02-0e0c41326911/embed_map'></iframe>
     <p class="desc">
+        Which local government areas have experienced bushfires? How many people could be affected by these bushfires? What about the extent of the largest bushfires? How have these trends changed over the last decade?
+    </p>
+    <p class="desc">
         Hotter colours (red) indicate severe bushfires. The population density of each area is shown in the background with darker colours indicating higher population densities. Hovering over the map to see more information about these areas.
     </p>
     <div class="map-title">Roads vulnerable to bushfires in Victoria</div>
