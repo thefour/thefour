@@ -551,6 +551,11 @@ tr.pager td {
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
+.demo {
+    width: 960px;
+    height: 540px;
+}
 /********************
 *   Mobile Styles   *
 ********************/
