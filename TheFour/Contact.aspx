@@ -3,7 +3,7 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <table>
         <tr>
-            <td width="50%">
+            <td style="width: 50%;">
                 <hgroup class="title">
                     <h1>The Four</h1>
                     <h2>@ GovHack 2015 </h2>
@@ -58,8 +58,8 @@
                     </section>
                 </article>
             </td>
-            <td>
-                <img width="480px" src="Images/the_four.jpg" />
+            <td style="width: 50%;">
+                <img style="width: 480px; " src="Images/the_four.jpg" />
             </td>
         </tr>
     </table>

@@ -5,15 +5,28 @@
         <h1>DWSAT. </h1>
         <h2>Disasters Warning Service for Australian Transportation</h2>
     </hgroup>
-
-    <p>
-        Australia is regularly threatened by bush-fire, and Victoria is particularly hard-hit. In 2009, the Black Saturday bushfires claimed the lives of 173 people and destroyed 5 millions hectares of forest. Seeking to mitigate the impact of forest fire, we visualize the location and extend of bushfires in Victoria during the period of 15 years, from 2000 to 2015 (darker colors indicate higher severity). We hope to give planning authorities a powerful tool to battle this type of disaster..
+    <p class="desc">
+        Extreme events such as bushfire, flood, hail, and tornado can have severe economic, environmental, and social impacts on the Australian communities. In particular, their disruptive effects on the performance and operation of the transport network can be serious. Fortunately, relevant historical and modelled data from various government agencies can be used to both predict and mitigate disruptions in the transportation of people and goods. This project aims to provide an understanding of the effects of the extreme events on different areas and road network of Victoria. Interactive maps are developed, which visualise historical bushfires and severe storms, and major predicted floods in Victoria and identify road links vulnerable to these extreme events.
     </p>
-    <div>
-        <iframe width="470" height="265" src='https://quanthdhcn.cartodb.com/viz/ac5b0782-21f2-11e5-8c02-0e0c41326911/embed_map'></iframe>
-        <iframe width="470" height="265" src='https://quanthdhcn.cartodb.com/viz/2193bd1e-220c-11e5-aeb5-0e9d821ea90d/embed_map'></iframe>
-    </div>
+
+    <hgroup class="title">
+        <h2>Bushfire in Victoria</h2>
+    </hgroup>
+
+    <img class="demo" src="Images/bushfire_demo.png" />
+    <p class="desc">
+        Which local government areas have experienced bushfires? How many people could be affected by these bushfires? What about the extent of the largest bushfires? How have these trends changed over the last decade?
+    </p>
     <p>
-        The second map shows the arterials that are highly vulnerable to bushfire in Victoria. The people travel through these sections should be warned about the danger, especially in dry season.
+        Hotter colours (red) indicate severe bushfires. The population density of each area is shown in the background with darker colours indicating higher population densities. Hovering over the map to see more information about these areas.
+    </p>
+    <hgroup class="title">
+        <h1>DWSAT. </h1>
+        <h2>Roads vulnerable to bushfires in Victoria</h2>
+    </hgroup>
+
+    <img class="demo" src="Images/bushfire_road_demo.png" />
+    <p class="desc">
+        Road sections, which are vulnerable to bushfires, are identified and highlighted in red colour. The animation show the location and time of the fires threatening these road sections.
     </p>
 </asp:Content>

@@ -538,7 +538,18 @@ tr.pager td {
 }
 
 .desc {
-    font-size: 1.2em;
+    font-size: 1.1em;
+    text-align: justify;
+}
+
+.map-title {
+    font-size: 1.3em;
+    font-weight: 600;
+    margin: -20px 0 5px;
+    float: left;
+    color: #e23934;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 /********************
 *   Mobile Styles   *
