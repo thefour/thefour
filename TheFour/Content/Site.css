@@ -214,15 +214,39 @@ ul#bottom-menu {
 
         ul#bottom-menu li .fire {
             color: #e23934;
+            height: 40px;
+            width: 40px;
+            transition: all 0 ease;
         }
+
+            ul#bottom-menu li .fire:hover {
+                height: 39px;
+                width: 39px;
+            }
 
         ul#bottom-menu li .flood {
             color: #55b2d1;
+            height: 40px;
+            width: 40px;
+            transition: all 0 ease;
         }
+
+            ul#bottom-menu li .flood:hover {
+                height: 39px;
+                width: 39px;
+            }
 
         ul#bottom-menu li .storm {
             color: #8eab3d;
+            height: 40px;
+            width: 40px;
+            transition: all 0 ease;
         }
+
+            ul#bottom-menu li .storm:hover {
+                height: 39px;
+                width: 39px;
+            }
 
         ul#bottom-menu li a {
             background: none;
@@ -487,12 +511,12 @@ tr.pager td {
 }
 
 .slogan {
-    color: #333; 
-    font-size: 1.2em; 
-    font-weight: 600; 
-    display: inline-block; 
-    vertical-align: top; 
-    padding:15px 0 0 20px;
+    color: #333;
+    font-size: 1.2em;
+    font-weight: 600;
+    display: inline-block;
+    vertical-align: top;
+    padding: 15px 0 0 20px;
 }
 
 .navigation-fire {
