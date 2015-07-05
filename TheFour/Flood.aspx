@@ -3,7 +3,7 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <ul id="bottom-menu">
         <a href="/Flood.aspx">
-            <div class="navigation-flood">Flood in Australia from 2000 to 2012</div>
+            <div class="navigation-flood">Flood probability in Australia over 100-year period</div>
         </a>
         <li><a href="/Bushfire">
             <img alt="Bushfire" class="fire" src="/Images/Fire.png" /></a></li>

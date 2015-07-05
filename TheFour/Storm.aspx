@@ -3,7 +3,7 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <ul id="bottom-menu">
         <a href="/Storm.aspx">
-            <div class="navigation-storm">Stormy phenomenon in Australia from 2000 to 2015</div>
+            <div class="navigation-storm">Adverse weather in Australia from 2000 to 2015</div>
         </a>
         <li><a href="/Bushfire">
             <img alt="Bushfire" class="fire" src="/Images/Fire.png" /></a></li>
