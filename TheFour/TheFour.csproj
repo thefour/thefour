@@ -188,6 +188,7 @@
     <Content Include="Content\themes\base\minified\jquery.ui.slider.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.tabs.min.css" />
     <Content Include="Content\themes\base\minified\jquery.ui.theme.min.css" />
+    <Content Include="Images\the_four.jpg" />
     <Content Include="Storm.aspx" />
     <Content Include="Flood.aspx" />
     <Content Include="Fire.aspx" />

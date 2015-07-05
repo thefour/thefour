@@ -55,7 +55,7 @@
                 </article>
             </td>
             <td>
-                <img width="480px" src="../Images/the_four.jpg"/>
+                <img width="480px" src="Images/the_four.jpg"/>
             </td>
         </tr>
     </table>
