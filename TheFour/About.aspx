@@ -29,8 +29,7 @@
         Road sections, which are vulnerable to bushfires, are identified and highlighted in red colour. The animation show the location and time of the fires threatening these road sections.
     </p>
 
-
-    <%--<hgroup class="title">
+    <hgroup class="title">
         <h2>Flood extent and affected road sections in Victoria</h2>
     </hgroup>
 
@@ -46,5 +45,5 @@
     <img class="demo" src="/Images/storm-demo.png" />
     <p class="desc">
         Types and locations of storms in Victoria from 2000 to 2014 are visualised in this map. It is easy to spot areas that are frequently struck by severe storms. Road sections affected by these storms are highlighted in red.
-    </p>--%>
+    </p>
 </asp:Content>
