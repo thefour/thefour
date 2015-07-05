@@ -12,6 +12,6 @@
         <li><a href="/Storm">
             <img alt="Storm" class="storm" src="/Images/Storm.png" /></a></li>
     </ul>
-    <iframe width="960" height="540" src='https://quanthdhcn.cartodb.com/viz/9bf12606-22ab-11e5-a651-0e4fddd5de28/embed_map'></iframe>
+    <iframe width="960" height="540" src='https://quanthdhcn.cartodb.com/viz/a6efdc12-22b7-11e5-b7db-0e9d821ea90d/embed_map'></iframe>
     <p class="desc"></p>   
 </asp:Content>
