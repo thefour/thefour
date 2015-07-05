@@ -2,7 +2,7 @@
 
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
-        <h1>DWSAT</h1>
+        <h1>DWSAT. </h1>
         <h2>Disasters Warning Service for Australian Transportation</h2>
     </hgroup>
 
